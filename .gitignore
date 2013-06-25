@@ -20,16 +20,9 @@ local.properties
 .project
 
 
-build/
-server/uploads/
-server/public/
-server/build/
-server/WebContent/public
-misc/
 
 
 # OS generated files #
-######################
 .DS_Store
 .DS_Store?
 ._*
